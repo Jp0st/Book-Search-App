@@ -19,7 +19,7 @@ To begin you will want to clone this repository onto your local machine and in t
 
 from there the local build should be functioning and look like this: 
 
-![alt text](assets/images/example-image.png)
+![alt text](client/src/assets/example-image.PNG)
 
 ## Usage
 
